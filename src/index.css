@@ -16,13 +16,14 @@
 
 a {
   font-weight: 500;
-  color: #3b82f6;
+  color: #fff;
+  font-weight: 600;
   text-decoration: inherit;
   transition: .5s;
 }
 
 a:hover {
-  color: #93c5fd;
+  color: #3b82f6;
 }
 
 body {
