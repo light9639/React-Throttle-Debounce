@@ -39,6 +39,7 @@ import { HashRouter } from 'react-router-dom'
 </HashRouter>
 ```
 ### :zap: App.tsx
+- `react-router-dom`의 `Link`, `Routes`, `Route`을 이용하여 라우팅 기능 구현.
 ```typescript
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
